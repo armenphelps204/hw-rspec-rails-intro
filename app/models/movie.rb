@@ -1,4 +1,5 @@
 # added comment
+# added another comment
 
 class Movie < ActiveRecord::Base
     def self.all_ratings
